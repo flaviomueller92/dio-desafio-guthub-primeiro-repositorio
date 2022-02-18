@@ -1,0 +1,6 @@
+Comandos Bash
+
+LS - Lista (mesma coisa do DIR)
+MK - Cria uma pasta
+git clone (link do github) - faz o download do conteúdo do repositório do github
+git status - indica se há arquivos para serem comitados ou modificados
